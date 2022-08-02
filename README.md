@@ -25,16 +25,16 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](ss/desktop.jpg)
+![desktop version](/FrontEndMentor/ss/desktop.png)
 
 Mobile version
 
-![mobile version](ss/mobile.jpg)
+![mobile version](/FrontEndMentor/ss/mobile.png)
 
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/Baroush/FrontEndMentor.git)
-- Live Site URL: [GitHub Pages Live URL](https://santu369.github.io/frontendmentor-stats-preview-card-component)
+- Live Site URL: [GitHub Pages Live URL](https://baroush.github.io/FrontEndMentor/)
 
 ## My process
 
