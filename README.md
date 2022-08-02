@@ -25,11 +25,11 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/FrontEndMentor/ss/desktop.png)
+![desktop version](/ss/desktop.png)
 
 Mobile version
 
-![mobile version](/FrontEndMentor/ss/mobile.png)
+![mobile version](/ss/mobile.png)
 
 ### Links
 
