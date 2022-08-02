@@ -25,11 +25,11 @@ Users should be able to:
 
 Desktop version
 
-![desktop version](/ss/desktop.jpg)
+![desktop version](ss/desktop.jpg)
 
 Mobile version
 
-![mobile version](/ss/mobile.jpg)
+![mobile version](ss/mobile.jpg)
 
 ### Links
 
@@ -51,5 +51,5 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Gherhes Alexandru Stefan](https://santu369.github.io/FreeCodeCamp-PersonalPortfolioWebpage)
-- Frontend Mentor - [@santu369](https://www.frontendmentor.io/profile/Baroush)
+- Website - [Gherhes Alexandru Stefan](https://www.frontendmentor.io/profile/Baroush)
+- Frontend Mentor - [@Baroush](https://www.frontendmentor.io/profile/Baroush)
