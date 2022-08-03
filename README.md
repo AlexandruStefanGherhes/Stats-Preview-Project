@@ -29,7 +29,7 @@ Desktop version
 
 Mobile version
 
---------------------------------------------------------![mobile version](/ss/mobile.png)
+                                                               ![mobile version](/ss/mobile.png)
 
 ### Links
 
