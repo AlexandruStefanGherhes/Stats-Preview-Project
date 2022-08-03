@@ -26,6 +26,8 @@ body {
   align-items: center;
 }
 
+/* using variables for setting up the colors */
+
 :root {
   --main-bg-color: hsl(233, 47%, 7%);
   --card-bg-color: hsl(244, 38%, 16%);
@@ -79,6 +81,8 @@ span {
   font-weight: 700;
 }
 
+/* Using the lobotomized owl to add a margin to every element that follows another document */
+
 * + * {
   margin-top: 20px;
 }
@@ -111,6 +115,8 @@ span {
 .attribution a:hover {
   color: var(--card-accent-color);
 }
+
+/* Media query for desktop */
 
 @media all and (min-width: 1440px) {
   .container {
