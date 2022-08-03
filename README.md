@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/Baroush/FrontEndMentor.git)
-- Live Site URL: [GitHub Pages Live URL](https://baroush.github.io/FrontEndMentor/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Stats-Preview-Project/)
 
 ## My process
 
@@ -51,5 +51,5 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Gherhes Alexandru Stefan](https://www.frontendmentor.io/profile/Baroush)
+- Website - [Alexandru Stefan Gherhes](https://www.frontendmentor.io/profile/Baroush)
 - Frontend Mentor - [@Baroush](https://www.frontendmentor.io/profile/Baroush)
