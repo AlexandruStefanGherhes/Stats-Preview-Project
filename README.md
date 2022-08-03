@@ -29,12 +29,12 @@ Desktop version
 
 Mobile version
 
-.                                                               ![mobile version](/ss/mobile.png)
+![mobile version](/ss/mobile.png)
 
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/Baroush/FrontEndMentor.git)
-- Live Site URL: [GitHub Pages Live URL](https://baroush.github.io/FrontEndMentor/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Stats-Preview-Project/)
 
 ## My process
 
