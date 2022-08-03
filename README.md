@@ -29,7 +29,7 @@ Desktop version
 
 Mobile version
 
-![mobile version](/ss/mobile.png)
+--------------------------------------------------------![mobile version](/ss/mobile.png)
 
 ### Links
 
@@ -51,5 +51,5 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Gherhes Alexandru Stefan](https://www.frontendmentor.io/profile/Baroush)
+- Website - [Alexandru Stefan Gherhes](https://www.frontendmentor.io/profile/Baroush)
 - Frontend Mentor - [@Baroush](https://www.frontendmentor.io/profile/Baroush)
