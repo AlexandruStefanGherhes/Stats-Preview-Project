@@ -40,7 +40,7 @@ body {
 
 .container {
   text-align: center;
-  min-width: 300px;
+  max-width: 300px;
   border-radius: 10px;
   background-color: var(--card-bg-color);
   color: var(--main-para-color);
@@ -49,7 +49,7 @@ body {
 
 .text {
   padding: 20px;
-  width: 330px;
+  max-width: 330px;
   height: 580px;
 }
 
@@ -118,16 +118,16 @@ span {
 
 /* Media query for desktop */
 
-@media all and (min-width: 1440px) {
+@media all and (min-width: 975px) {
   .container {
-    min-width: 600px;
+    max-width: 970px;
     display: flex;
     flex-direction: row-reverse;
     margin-top: 200px;
   }
 
   .text {
-    width: 485px;
+    max-width: 485px;
     height: 380px;
     text-align: start;
     padding: 50px 0px 50px 80px;
